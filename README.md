@@ -2,9 +2,9 @@ Reportit
 ========
 
 Crime Notification System made in CivHackKHI (#CivHackKHI).
-Code Includes
--A web app built on top of codeignitor using Phil Sturgeon's REST Library.
--An android application which serves as a server for furnishing sms based request to the system.
+The Repo Includes
+* A web app built on top of codeignitor using Phil Sturgeon's REST Library.
+* An android application which serves as a server for furnishing sms based request to the system.
 
 REQUIREMENTS
 ------------
